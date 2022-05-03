@@ -18,3 +18,17 @@ Com base em sua análise, assinale a única opção que apresenta apenas as asse
 
 Com base em sua análise das assertivas, assinale a única opção correta:
 > A) Está correta apenas a III.
+---
+## Módulo 2
+1. Como se chama o processo que organiza os elementos do website, favorecendo a experiência do usuário e ajudando-o a localizar o que precisa no website?
+
+Assinale a única resposta correta:
+> C) Arquitetura da informação
+2. No que se refere ao design responsivo, avalie as assertivas a seguir:
+
+* I. O design responsivo foca na construção de websites nos quais suas páginas são vistas sempre da mesma forma, independentemente do dispositivo usado.
+* II. A aplicação do design responsivo em sites de e-commerce é irrelevante.
+* III. Pense grande, comece pequeno; ou seja, inicie o design pelo dispositivo de menor tamanho.
+
+Com base em sua análise, assinale a única alternativa com todas as assertivas corretas:
+> A) I e III, apenas
