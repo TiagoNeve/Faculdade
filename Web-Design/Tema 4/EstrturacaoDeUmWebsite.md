@@ -11,3 +11,5 @@
 * Negócio de Heurística bem estranho
 ---
 ## Módulo 4 - Descrever ferramentas de modelagem de interface: Wireframe e protótipo.
+* Desenhos em papeis ou Figmas da vida para dar um gostinho do layout do website para o cliente.
+* Ou então fazer protótipos em ferramentas como GIMP, mais para o cliente ter uma ideia e poder opinar de como ficará o Layout do site antes de começar o projeto.

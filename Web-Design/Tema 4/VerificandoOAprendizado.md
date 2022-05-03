@@ -46,3 +46,16 @@ Com base em sua análise, assinale a única opção que apresenta apenas as asse
 
 Assinale a única opção correta:
 > A) Visibilidade do status do sistema.
+---
+## Módulo 4
+1. Qual o tipo e o wireframe adequado nos momentos iniciais, para o designer desenvolver melhor as ideias da interação, sem muita fidelidade com a realidade?
+> A) Básico
+2. No que se refere ao conceito e aos benefícios da elaboração de wireframes, avalie as assertivas a seguir:
+
+* I. Os wireframes são protótipos de baixa fidelidade usados nos momentos iniciais do projeto de design, para validar as ideias.
+* II. Wireframes podem ser elaborados à mão (papel e caneta) ou por software. Nos momentos iniciais, à mão É uma boa opção, porque se as ideias não agradarem, basta amassar o papel e começar de novo.
+* III. Wireframe é o primeiro passo para criarmos interfaces com boa usabilidade.
+* IV. Wireframe não é uma boa ferramenta para se comunicar com os usuários.
+
+Com base em sua análise, assinale a única opção que apresenta apenas as assertivas corretas:
+> E) I, II e III
