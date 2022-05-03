@@ -11,3 +11,9 @@
 > C) Objetivos devem ser atingíveis.
 2. Assinale a alternativa correta em relação ao conceito de objetivos no contexto do planejamento de websites:
 > E) Objetivos de negócios são desejos que o cliente de uma empresa projeta para ela.
+---
+### Módulo 3
+1. O levantamento de requisitos é uma atividade fundamental no processo de desenvolvimento de um website. Assinale a alternativa correta sobre essa atividade:
+> Somente pessoas devem ser consultadas na realização dessa atividade.
+2. Uma dessas alternativas diz respeito à relevância do tipo de requisito não funcional de usabilidade para websites. Assinale-a:
+> Websites podem atender usuários com deficiência visual.

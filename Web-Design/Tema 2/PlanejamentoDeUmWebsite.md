@@ -47,3 +47,7 @@ Alguns exemplos de objetivos de website são: E-Comerce, compartilhar informaç~
 * Especificar os objetivos de negócios -> Identificar os objetivos de usuários -> Alinhar os objetivos de negócios com os de usuários para então compor os objetivos do website.
 ---
 ## Módulo 3 - Descrever os requisitos iniciais de um website
+Levantamento do que será necessário na hora de criar o site.
+---
+## Resumo Tema:
+> Acho importantíssimo pegar as informações do cliente para que você possa dar um website mais customizado possível, mas isso acaba sendo mais responsabilidade de consultores e tudo mais, claro que os Dev's precisam ter uma ideia do que está acontecendo e tudo mais, mas num mundo onde tudo está bem separado e definido, saber que esse conceito de briefing só será utilizado em projetos freelancers e por consultores em empresas maiores, ajuda na definição de objetivos a se tomar do que estudar no final das contas.
