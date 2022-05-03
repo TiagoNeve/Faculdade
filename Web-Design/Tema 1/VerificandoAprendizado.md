@@ -29,3 +29,5 @@
 > A) As afirmações II e III estão corretas.
 2. Qual das ferramentas a seguir era utilizada para a criação de animações interativas que funcionavam embutidas em um navegador e que também podiam ser acessadas por meio de desktops, celulares e smartphones?
 > A) Flash
+---
+## Tema 1 Finalizado
