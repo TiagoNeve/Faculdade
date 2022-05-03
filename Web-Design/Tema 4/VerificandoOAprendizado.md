@@ -32,3 +32,17 @@ Assinale a única resposta correta:
 
 Com base em sua análise, assinale a única alternativa com todas as assertivas corretas:
 > A) I e III, apenas
+---
+## Módulo 3
+1. No que se refere aos dois grupos de avaliação da usabilidade de websites, avalie as assertivas a seguir:
+
+* I. Os métodos de inspeção demandam avaliadores, mas não demandam usuários.
+* II. Os métodos de testes de usabilidade não demandam interface implementada e, por isto, podem ser usados nas primeiras fases dos projetos de websites.
+* III. Avalição Heurística é um dos métodos de testes de usabilidade.
+
+Com base em sua análise, assinale a única opção que apresenta apenas as assertivas corretas:
+> E) I
+2. Uma das heurísticas propostas pelo método de inspeção de Jakob Nielsen, a Avaliação Heurística, diz que o usuário deve ser informado, a todo instante, do que está acontecendo no website. De qual heurística estamos falando?
+
+Assinale a única opção correta:
+> A) Visibilidade do status do sistema.
