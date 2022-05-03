@@ -22,3 +22,5 @@ Um website só terá sucesso se você conhecer as necessidades de seus usuários
 * Útil na hora de criar o website de uma empresa, analisar as cores de seu logotipo, como são as suas postagens em redes sociais, mas para firmar uma marca pessoal na hora de elaborar um website.
 * A pesquisa deve incluir Cores; Tipografia; Formas; Arquitetura da informação; Navegação; 
 * Pesquisa visual dos concorrentes, importante para que você possa pegar o que os concorrentes estão fazendo de errado, para que o seu website possa transmitir exatamente o que o concorrente está faltando e ainda mais.
+---
+## Módulo 3 - Descrever as justificativas do projeto do website
