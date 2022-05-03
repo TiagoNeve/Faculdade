@@ -40,3 +40,10 @@ Dar uma espécie de produto que pode ser alcançável se o cliente quiser, isso 
 
 ### Resumo
 > O Briefing é importante para planejamento de um website, pegar o máximo de informações possíveis sobre o cliente e seu nicho de mercado será um diferencial, pois você estará criando um website destinado àquele cliente e especial, não um genérico. Por tanto, sempre tente fazer alguma espécie de briefing e tente realizar com a maior qualidade possível, pois isso será um diferencial quando estiver realizando projetos maiores.
+---
+## Módulo 2 - Formular os objetivos de um website
+Definir bem os objetivos de um website é um passo importante, pois com isso dar para se ter um ideia se o site terá sucesso ou não.
+Alguns exemplos de objetivos de website são: E-Comerce, compartilhar informaç~oes e conhecimento, Promover entretenimento.
+* Especificar os objetivos de negócios -> Identificar os objetivos de usuários -> Alinhar os objetivos de negócios com os de usuários para então compor os objetivos do website.
+---
+## Módulo 3 - Descrever os requisitos iniciais de um website
