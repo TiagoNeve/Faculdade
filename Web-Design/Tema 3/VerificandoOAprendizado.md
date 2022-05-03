@@ -13,3 +13,15 @@ Com base em sua análise das assertivas, assinale a única opção correta.
 > A) Uma regra de negócio aplica-se a um ou mais requisitos funcionais.
 ---
 ## Módulo 2
+1. Dentre os itens relevantes a serem analisados na pesquisa visual da empresa e da concorrência, qual se relaciona ao abaixo exposto:
+
+- Visa a organizar o conteúdo, de forma clara, possibilitando ao usuário localizar tudo aquilo que precisa para realizar suas tarefas laborais.
+
+Assinale a única opção correta.
+> A) Arquitetura da informação
+2. O objetivo do ______________ é: Definir o conceito que será usado no projeto do website, direcionando o desenvolvimento de uma interface que busque atingir o foco do site, valorizando o conteúdo oferecido e compartilhado. Além do enfoque de criação e edição do conteúdo do website, mostra-se útil como princípio que conduz a experiência do usuário.
+
+Assinale a única opção que completa a frase acima:
+> D) Conceito editorial
+--- 
+## Módulo 3
