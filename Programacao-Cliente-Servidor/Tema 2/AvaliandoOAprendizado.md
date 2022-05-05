@@ -16,3 +16,9 @@
 > C) A interface DOM é um padrão para manusear documentos nos formatos HTML e XML. Através dessa interface, podemos acessar os elementos e atributos de um documento através das propriedades e métodos por ela disponibilizados.
 ---
 ## Módulo 2
+1. Dentre as afirmativas abaixo, uma não descreve a sintaxe e anatomia de uma string JSON. Assinale a alternativa em questão.
+> Tags: Assim como em XML ou HTML, um arquivo JSON é composto por tags para nomear um atributo ou propriedade. Tal tag é seguida pelo sinal de dois pontos (“:”) e pelo seu valor.
+2. Assinale a afirmativa que corresponda à sintaxe de um documento no formato YAML.
+> A estrutura de um documento escrito no formato YAML é caracterizada por utilizar poucos caracteres estruturais, fazendo com que os dados representados se pareçam com sua forma natural. Logo, um arquivo nesse formato é muito amigável a humanos.
+---
+## Módulo 3
